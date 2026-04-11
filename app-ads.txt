@@ -1,9 +1,5 @@
 #Updated 10.03.2026
 
-#Appodeal
-
-appodeal.com, 262333, DIRECT
-
 #BidMachine
 
 bidmachine.io,1,DIRECT
@@ -3389,6 +3385,10 @@ rtbhouse.com, KicWDRpi0GCWX2lQJcYn, RESELLER
 rtbhouse.com,7VQaL76PBynk7Hu4jror,DIRECT
 
 rtbmax.com,6719ebb4d23d2293c2398268,RESELLER
+
+#Appodeal
+
+appodeal.com, 262333, DIRECT
 
 rtbsape.com, 1622050, RESELLER
 
